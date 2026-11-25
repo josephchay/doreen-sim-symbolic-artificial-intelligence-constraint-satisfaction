@@ -1,7 +1,7 @@
 # Symbolic Artificial Intelligence - Lab Test
 
 This repository contains the code for the lab test according to prescribed documents and requirements for 
-the module Symbolic Artificial Intelligence at the University of Nottingham Malaysia campus.
+the module Symbolic Artificial Intelligence under [Professor Dr. Doreen Sim Ying Ying](https://www.nottingham.edu.my/Science-Engineering/People/doreen.sim) at the University of Nottingham Malaysia campus.
 
 ---
 
